@@ -1,0 +1,19 @@
+{
+    "smart": {
+        "awscloudformation": {
+            "AuthRoleName": "smarthome-20190417154754-authRole",
+            "UnauthRoleArn": "arn:aws:iam::499699315073:role/smarthome-20190417154754-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::499699315073:role/smarthome-20190417154754-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "smarthome-20190417154754-deployment",
+            "UnauthRoleName": "smarthome-20190417154754-unauthRole",
+            "StackName": "smarthome-20190417154754",
+            "StackId": "arn:aws:cloudformation:us-east-1:499699315073:stack/smarthome-20190417154754/123ae190-60fa-11e9-903a-12d99c723360"
+        },
+        "categories": {
+            "auth": {
+                "cognitob10bd906": {}
+            }
+        }
+    }
+}

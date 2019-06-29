@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "518354919992",
+    "firebase_url": "https://sourabh-firebase1.firebaseio.com",
+    "project_id": "sourabh-firebase1",
+    "storage_bucket": "sourabh-firebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518354919992:android:cc3cf6d620d0d569",
+        "android_client_info": {
+          "package_name": "com.example.sourabh.sourabh_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518354919992-80vpt29l79n957f1er8pipchiejfi24e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQYOCzBMxbAKWJw51gAoIhVlHARTrmMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "smart",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognitob10bd906",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
